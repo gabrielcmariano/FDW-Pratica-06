@@ -1,0 +1,26 @@
+body {
+    background-color: wheat;
+}
+.titulo {
+    background-color: burlywood;
+    color: black;
+    padding: .1rem;
+    font-size: 4rem;
+}
+.botao {
+    text-align: center;
+}
+#but {
+    font-size: .7rem;
+    padding: .8rem;
+    text-align: center;
+}
+.resp {
+    background-color: burlywood;
+    color: black;
+}
+.resul {
+    background-color: burlywood;
+    color: black;
+
+} 

@@ -1,0 +1,17 @@
+.info {
+    background-color: blue;
+    color: black;
+    padding: 1px;
+}
+
+.botao {
+    background-color: orangered;
+    color: black;
+    padding: 5px;
+}
+#resposta {
+    background-color: wheat;
+    color: green;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+}
